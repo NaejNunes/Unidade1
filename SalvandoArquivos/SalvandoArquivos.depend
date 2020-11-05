@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604577344 source:c:\users\jeann\documents\repositorioscc\unidade1\salvandoarquivos\main.c
+	<stdio.h>
+	<stdlib.h>
+
